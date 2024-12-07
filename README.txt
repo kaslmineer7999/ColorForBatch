@@ -17,6 +17,6 @@ fg, bg - is the color for the forground/text (fg) or the background
 /no-newline, -no-newline, /nnl, -nnl - do not add a newline at the-
 end
            all parameters must be in the following order:
-  main.bat (fg or bg) (rgb in "r,g,b" format) "STRING" [-nl,-nnl]
+call main.bat (fg or bg) (rgb in "r,g,b" format) "STRING" [-nl,-nnl]
 
 
