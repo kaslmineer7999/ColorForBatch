@@ -57,5 +57,5 @@ echo.
 echo./no-newline, -no-newline, /nnl, -nnl - do not add a newline at the-
 echo.end
 echo.           all parameters must be in the following order:
-echo.%~0 (fg or bg) (rgb in "r,g,b" format) "STRING" [-nl,-nnl]
+echo.call %~0 (fg or bg) (rgb in "r,g,b" format) "STRING" [-nl,-nnl]
 echo.
